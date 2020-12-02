@@ -4,3 +4,5 @@ students or teachers, along with relevant information, and then search for them 
 
 The files in the repo were used to test this application to ensure all of its intedended user commands worked 
 as expected.
+
+The project gave an opportunity to learn about and implement Red Black Trees.
