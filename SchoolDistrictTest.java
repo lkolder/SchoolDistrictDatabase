@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
 
 import org.junit.jupiter.api.Test;
 
-class TestEngineer {
+class SchoolDistrictTest {
 
     private static PersonAtSchool testItem1 = new PersonAtSchool('S', "Tom", "Smith", 18, 12, 'H');
     private static PersonAtSchool testItem2 = new PersonAtSchool('S', "Jake", "Sharp", 14, 7, 'M');
